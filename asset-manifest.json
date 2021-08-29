@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/assignment/static/css/main.002f8ee2.chunk.css",
+    "main.js": "/assignment/static/js/main.035f7fcf.chunk.js",
+    "main.js.map": "/assignment/static/js/main.035f7fcf.chunk.js.map",
+    "runtime-main.js": "/assignment/static/js/runtime-main.42d5a7d9.js",
+    "runtime-main.js.map": "/assignment/static/js/runtime-main.42d5a7d9.js.map",
+    "static/js/2.e45f3dc1.chunk.js": "/assignment/static/js/2.e45f3dc1.chunk.js",
+    "static/js/2.e45f3dc1.chunk.js.map": "/assignment/static/js/2.e45f3dc1.chunk.js.map",
+    "index.html": "/assignment/index.html",
+    "static/css/main.002f8ee2.chunk.css.map": "/assignment/static/css/main.002f8ee2.chunk.css.map",
+    "static/js/2.e45f3dc1.chunk.js.LICENSE.txt": "/assignment/static/js/2.e45f3dc1.chunk.js.LICENSE.txt",
+    "static/media/Ellipse 1@1X.71d75995.png": "/assignment/static/media/Ellipse 1@1X.71d75995.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.42d5a7d9.js",
+    "static/js/2.e45f3dc1.chunk.js",
+    "static/css/main.002f8ee2.chunk.css",
+    "static/js/main.035f7fcf.chunk.js"
+  ]
+}
