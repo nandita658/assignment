@@ -1,0 +1,9 @@
+.heading {
+    font-size: 32px;
+    font-weight: 650;
+    letter-spacing: 2.5px;
+    word-spacing: 4px;
+    padding-bottom: 7px;
+    border-bottom: 2px solid #fff;
+    width: fit-content;
+}

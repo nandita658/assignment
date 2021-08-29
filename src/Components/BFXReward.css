@@ -1,0 +1,22 @@
+.box1 {
+    margin-left: 130px;
+}
+
+.box2 {
+    margin-top: 25px;
+    margin-bottom: 120px;
+}
+
+.box2 .point {
+    font-size: 21px;
+    letter-spacing: 2px;
+    word-spacing: 4px;
+    line-height: 140%;
+}
+
+.box1 h1 {
+    font-size: 32px;
+    letter-spacing: 2px;
+    font-weight: 650;
+    word-spacing: 4px;
+}
